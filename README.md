@@ -55,16 +55,3 @@
 
 - Transição para o dark mode: all .3s ease-in-out 0s;
 
-## Layout
-
-### Mobile
-
-[Clique aqui para ver](./assets/img/mobile.png)
-
-### Tablet
-
-[Clique aqui para ver](./assets/img/tablet.png)
-
-### Desktop
-
-[Clique aqui para ver](./assets/img/desktop.png)
